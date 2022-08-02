@@ -29,7 +29,7 @@ I also wanted to include rain data in my analysis, as this can have a big impact
 ###  Precipitation
 ![June Rain Graphed](img/plot_jun_rain.png) ![December Rain Graphed](img/plot_dec_rain.png)
 
-After charting the recorded rainfall for June and December, it is clear that there is little to no rain 
+After charting the recorded rainfall for June and December, it is clear that there is little to no rain in this area, therefore very low risk of rain adversely affecting the business.
 
 ## Conclusions
 Based on the consistent temperatures and the extremely low rainfall, we can safely conclude that Maui is a fantastic place to open a beach-based business like a surf and ice cream shop. 
