@@ -14,10 +14,10 @@ Longitude in decimal degrees: -157.8489
 
 ### Raw Data
 #### Temperatures Charted
-[June Temps Chart](img/df_jun_temps.png) [December Temps Chart](img/df_dec_temps.png)
+![June Temps Chart](img/df_jun_temps.png) ![December Temps Chart](img/df_dec_temps.png)
 
 #### Temperatures Graphed
-[June Temps Graphed](img/plot_jun_temps.png) [December Temps Graphed](img/plot_dec_temps.png)
+![June Temps Graphed](img/plot_jun_temps.png) ![December Temps Graphed](img/plot_dec_temps.png)
 
 ### Analysis
 * June's average temperature is around 75ºF and the minimum/maximum temperatures only varied +/-10º from the average.
@@ -27,7 +27,7 @@ Longitude in decimal degrees: -157.8489
 ## Additional Data
 I also wanted to include rain data in my analysis, as this can have a big impact on outdoor activities and tourist activity. 
 ###  Precipitation
-[June Rain Graphed](img/plot_jun_rain.png) [December Rain Graphed](img/plot_dec_rain.png)
+![June Rain Graphed](img/plot_jun_rain.png) ![December Rain Graphed](img/plot_dec_rain.png)
 
 After charting the recorded rainfall for June and December, it is clear that there is little to no rain 
 
